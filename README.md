@@ -85,29 +85,7 @@
 - Δυνατότητα προβολής πρόσφατων κριτικών
 - Λειτουργία Check-In στον χώρο (Χρήση της τοποθεσίας του χρήστη για να επιβεβαιώσουμε την παρουσία του στον χώρο)
 
-## ΣΤ. Στιγμιότυπα Εφαρμογής
-
-Παρακάτω μπορείτε να δείτε στιγμιότυπα από την εφαρμογή Agora:
-
-<table>
-  <tr>
-    <td><img src="screenshots/Screenshot_20260118-134607.png" width="200"></td>
-    <td><img src="screenshots/Screenshot_20260118-134618.png" width="200"></td>
-    <td><img src="screenshots/Screenshot_20260118-134626.png" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/Screenshot_20260118-134644.png" width="200"></td>
-    <td><img src="screenshots/Screenshot_20260118-134650.png" width="200"></td>
-    <td><img src="screenshots/Screenshot_20260118-134658.png" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/Screenshot_20260118-134711.png" width="200"></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-## Ζ. Βίντεο Παρουσίασης Εφαρμογής
+## ΣΤ. Βίντεο Παρουσίασης Εφαρμογής
 
 Δείτε το βίντεο παρουσίασης της εφαρμογής Agora στον παρακάτω σύνδεσμο:
 
